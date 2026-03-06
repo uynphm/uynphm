@@ -2,6 +2,7 @@
 <div align="center">
 CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backend systems and cloud infrastructure
 </div>
+
 ---
 
 ## 🚀 Featured Projects
