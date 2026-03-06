@@ -7,6 +7,7 @@ CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backe
 
 ## 🚀 Featured Projects
 <div align="center">
+  
 **🤖 [MIRAI — Real-time Humanoid Control Framework](https://devpost.com/software/boxing-robot)**  
 🏆 *1st Place Robotics Track @ Cal Hacks 12.0*  
 Real-time motion mirroring and voice interaction system for the Unitree G1 humanoid robot
