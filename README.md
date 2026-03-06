@@ -10,10 +10,10 @@ CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backe
   
 **🤖 [MIRAI — Real-time Humanoid Control Framework](https://devpost.com/software/boxing-robot)**  
 🏆 **1st Place @ Cal Hacks 12.0**<br>
-Real-time motion mirroring and voice interaction system for the Unitree G1 humanoid robot
+Motion mirroring and voice interaction system for the Unitree G1 humanoid robot
 
 **🛡️ [SentryOps — Autonomous Security Governance](https://github.com/uynphm/SentryOps)**  
-AI-driven security orchestration platform that detects and remediates prompt injection and secret exposure in AI agents
+AI-driven security orchestration platform that detects and remediates prompt injection and secret exposure in agentic workflows
 
 **🏃 [MotionAI — Kinematic Intelligence Platform](https://github.com/uynphm/MotionAI)**  
 Real-time biometric telemetry platform performing skeletal alignment comparison on a distributed serverless backend
