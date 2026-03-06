@@ -7,16 +7,16 @@ CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backe
 
 ## 🚀 Featured Projects
 
-### 🤖 [MIRAI | Real-time Humanoid Control Framework](https://devpost.com/software/boxing-robot)
+🤖 [MIRAI | Real-time Humanoid Control Framework](https://devpost.com/software/boxing-robot)
 **1st Place Robotics Track @ Cal Hacks 12.0**: A real-time control system for the Unitree G1 humanoid, enabling natural motion mirroring and voice-based interaction
 
-### 🛡️ [SentryOps | Autonomous Security Governance](https://github.com/uynphm/SentryOps)
+🛡️ [SentryOps | Autonomous Security Governance](https://github.com/uynphm/SentryOps)
 **AI-Driven Security Orchestration**: A dual-mode security tool that detects and remediates prompt injection and secret exposure in AI agents
 
-### 🏃 [MotionAI | Kinematic Intelligence Platform](https://github.com/uynphm/MotionAI)
+🏃 [MotionAI | Kinematic Intelligence Platform](https://github.com/uynphm/MotionAI)
 **Enterprise-Grade Movement Telemetry**: A platform for real-time biometric feedback that performs skeletal alignment comparison using a distributed serverless backbone
 
-### 🏥 [SkyVoice | Assistive AI Browser Agent](https://github.com/uynphm/SkyVoice)
+🏥 [SkyVoice | Assistive AI Browser Agent](https://github.com/uynphm/SkyVoice)
 **Multimodal AI Pipeline**: An accessibility agent transforming complex DOM states into conversation-driven interactions for visually impaired users
 
 ## 💻 Tech Stack
