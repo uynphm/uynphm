@@ -70,7 +70,7 @@ CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backe
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyentrpham/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uyentrpham@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://uyentrpham.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=purple)](https://uyentrpham.com)
 
 
 
