@@ -6,20 +6,20 @@ CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backe
 # 🚀 Featured Projects
 
 ### 🤖 [MIRAI | Real-time Humanoid Control Framework](https://devpost.com/software/boxing-robot)
-**1st Place Robotics Track @ Cal Hacks 12.0** A real-time control system for the Unitree G1 humanoid, enabling natural motion mirroring and voice-based interaction
+**1st Place Robotics Track @ Cal Hacks 12.0**: A real-time control system for the Unitree G1 humanoid, enabling natural motion mirroring and voice-based interaction
 
 ### 🛡️ [SentryOps | Autonomous Security Governance](https://github.com/uynphm/SentryOps)
-**AI-Driven Security Orchestration** A dual-mode security tool that detects and remediates prompt injection and secret exposure in AI agents
+**AI-Driven Security Orchestration**: A dual-mode security tool that detects and remediates prompt injection and secret exposure in AI agents
 
 ### 🏃 [MotionAI | Kinematic Intelligence Platform](https://github.com/uynphm/MotionAI)
-**Enterprise-Grade Movement Telemetry** A platform for real-time biometric feedback that performs skeletal alignment comparison using a distributed serverless backbone
+**Enterprise-Grade Movement Telemetry**: A platform for real-time biometric feedback that performs skeletal alignment comparison using a distributed serverless backbone
 
 ### 🏥 [SkyVoice | Assistive AI Browser Agent](https://github.com/uynphm/SkyVoice)
-**Multimodal AI Pipeline** An accessibility agent transforming complex DOM states into conversation-driven interactions for visually impaired users
+**Multimodal AI Pipeline**: An accessibility agent transforming complex DOM states into conversation-driven interactions for visually impaired users
 
 # 💻 Tech Stack
 
-## 👨‍💻 Languages
+### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -29,7 +29,7 @@ CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backe
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
-## ⚙️ Frameworks & Tools
+### ⚙️ Frameworks & Tools
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
@@ -43,7 +43,7 @@ CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backe
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
-## ☁️ Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
@@ -55,7 +55,7 @@ CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backe
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
 
-## 🗄️ Databases
+### 🗄️ Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
