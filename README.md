@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backend systems and cloud infrastructure
 
 ---
