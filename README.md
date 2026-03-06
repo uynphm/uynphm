@@ -9,7 +9,7 @@ CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backe
 <div align="center">
   
 **🤖 [MIRAI — Real-time Humanoid Control Framework](https://devpost.com/software/boxing-robot)**  
-🏆 **1st Place @ Cal Hacks 12.0**
+🏆 **1st Place @ Cal Hacks 12.0**<br>
 Real-time motion mirroring and voice interaction system for the Unitree G1 humanoid robot
 
 **🛡️ [SentryOps — Autonomous Security Governance](https://github.com/uynphm/SentryOps)**  
@@ -34,7 +34,7 @@ Multimodal accessibility agent transforming complex DOM states into conversation
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
 ### ⚙️ Frameworks & Tools
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
