@@ -1,13 +1,14 @@
-## 💫 About Me
 <div align="center">
+  
+## 💫 About Me
 CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backend systems and cloud infrastructure
 </div>
 
 ---
 
-## 🚀 Featured Projects
 <div align="center">
-  
+
+## 🚀 Featured Projects  
 **🤖 [MIRAI — Real-time Humanoid Control Framework](https://devpost.com/software/boxing-robot)**  
 🏆 **1st Place @ Cal Hacks 12.0**<br>
 Motion mirroring and voice interaction system for the Unitree G1 humanoid robot
@@ -24,6 +25,8 @@ Multimodal accessibility agent transforming complex DOM states into conversation
 
 ---
 
+<div align="center">
+  
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
@@ -71,12 +74,17 @@ Multimodal accessibility agent transforming complex DOM states into conversation
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+</div>
 
 ---
+
+<div align="center">
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyentrpham/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uyentrpham@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://uyentrpham.com)
+</div>
+
 
 
 
