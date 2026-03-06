@@ -1,9 +1,9 @@
-# 💫 About Me
+## 💫 About Me
 CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backend systems and cloud infrastructure
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 [MIRAI | Real-time Humanoid Control Framework](https://devpost.com/software/boxing-robot)
 **1st Place Robotics Track @ Cal Hacks 12.0**: A real-time control system for the Unitree G1 humanoid, enabling natural motion mirroring and voice-based interaction
@@ -17,7 +17,7 @@ CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backe
 ### 🏥 [SkyVoice | Assistive AI Browser Agent](https://github.com/uynphm/SkyVoice)
 **Multimodal AI Pipeline**: An accessibility agent transforming complex DOM states into conversation-driven interactions for visually impaired users
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -66,7 +66,7 @@ CS @ SJSU | SWE @ Capella Systems<br>🌱 Currently interested in scalable backe
 
 ---
 
-# 🌐 Socials
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyentrpham/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uyentrpham@gmail.com) 
 
 
