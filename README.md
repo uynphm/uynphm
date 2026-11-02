@@ -85,6 +85,3 @@ Multimodal accessibility agent transforming complex DOM states into conversation
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://uyentrpham.com)
 </div>
 
-Simon is the best btw
-
-
