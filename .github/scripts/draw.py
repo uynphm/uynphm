@@ -16,10 +16,10 @@ WIDTH = 795
 # file suffix: theme colors
 THEMES = {
     "": {
-        "strong": "#1f2328", "muted": "#59636e", "line": "#d1d9e0", "accent": "#8250df",
+        "strong": "#1f2328", "muted": "#59636e", "line": "#d1d9e0", "accent": "#6a45bf",
     },
     "-dark": {
-        "strong": "#e6edf3", "muted": "#9198a1", "line": "#3d444d", "accent": "#a371f7",
+        "strong": "#e6edf3", "muted": "#9198a1", "line": "#3d444d", "accent": "#b08cfa",
     },
 }
 
