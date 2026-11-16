@@ -7,7 +7,7 @@ Backend engineer working on AI agents, durable workflows and cloud infrastructur
 
 - [MIRAI](https://devpost.com/software/boxing-robot) — real-time motion mirroring and voice control for the Unitree G1 humanoid. ***1st place, Cal Hacks 12.0***
 - [SentryOps](https://github.com/uynphm/SentryOps) — detects and fixes prompt injection and secret leaks in agent workflows
-- [MotionAI](https://github.com/uynphm/MotionAI) — real-time biometric telemetry platform performing skeletal alignment comparison on a distributed serverless backbone
+- [MotionAI](https://github.com/uynphm/MotionAI) — real-time biometric telemetry platform performing skeletal alignment comparison
 - [SkyVoice](https://github.com/uynphm/SkyVoice) — browser agent that turns web pages into conversation for visually impaired users
 
 **Stack**
