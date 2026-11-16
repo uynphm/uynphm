@@ -76,6 +76,8 @@ def render_activity(stats: dict, c: dict) -> str:
         f'<text x="{x0}" y="26"><tspan class="v">{stats["total"]:,} </tspan><tspan class="a">contributions</tspan></text>'
     )
     window = f"{fmt_day(stats['since'], year=True)} \u2013 {fmt_day(stats['until'], year=True)}"
+    if stats.get("tz"):
+        window += f" ({stats['tz']})"
     parts.append(f'<text x="{WIDTH / 2:.0f}" y="250" text-anchor="middle" class="d">{window}</text>')
 
     # Activity radar

@@ -9,9 +9,11 @@ import os
 import sys
 import urllib.parse
 import urllib.request
-from datetime import date, timedelta
+from datetime import datetime, time, timedelta
+from zoneinfo import ZoneInfo
 
 API = "https://api.github.com"
+TZ = ZoneInfo("America/Los_Angeles")  # dates are Pacific time, not the runner's UTC
 TOKEN = os.environ["STATS_TOKEN"]
 
 
@@ -48,7 +50,9 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
 
 def calendar(login: str, since: str, until: str) -> dict:
     """Total contributions in the window, days with any contribution, and a per-week series for the chart."""
-    res = graphql(CALENDAR_QUERY, {"login": login, "from": f"{since}T00:00:00Z", "to": f"{until}T23:59:59Z"})
+    start = datetime.combine(datetime.fromisoformat(since), time.min, TZ).isoformat()
+    end = datetime.combine(datetime.fromisoformat(until), time(23, 59, 59), TZ).isoformat()
+    res = graphql(CALENDAR_QUERY, {"login": login, "from": start, "to": end})
     cal = res["user"]["contributionsCollection"]["contributionCalendar"]
     weeks = [{"start": w["firstDay"], "count": sum(d["contributionCount"] for d in w["contributionDays"])} for w in cal["weeks"]]
     active = sum(1 for w in cal["weeks"] for d in w["contributionDays"] if d["contributionCount"])
@@ -79,11 +83,13 @@ def pr_commits(login: str, since: str) -> int:
 
 def main() -> None:
     login, out = sys.argv[1], sys.argv[2]
-    since = (date.today() - timedelta(days=365)).isoformat()
-    until = date.today().isoformat()
+    now = datetime.now(TZ)
+    since = (now.date() - timedelta(days=365)).isoformat()
+    until = now.date().isoformat()
     stats = {
         "since": since,
         "until": until,
+        "tz": now.tzname(),  # PST or PDT
         **calendar(login, since, until),
         "commits": max(count("commits", f"author:{login} author-date:>={since}"), pr_commits(login, since)),
         "prs": count("issues", f"author:{login} type:pr created:>={since}"),
