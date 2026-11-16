@@ -28,8 +28,8 @@ Backend engineer working on AI agents, durable workflows and cloud infrastructur
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-3d-dark.svg">
-  <img alt="3D contribution graph" src="assets/contrib-3d.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img alt="Contributions and activity" src="assets/activity.svg">
 </picture>
 
 [LinkedIn](https://www.linkedin.com/in/uyentrpham/) · [Email](mailto:uyentrpham@gmail.com)

@@ -1,0 +1,33 @@
+name: profile-stats
+
+on:
+  schedule:
+    - cron: "0 10 * * *" # ~3am Pacific
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch stats
+        env:
+          # A token that can read your private work repos, so their PRs and commits count.
+          # Without the STAT_TOKEN secret, only public activity is counted.
+          STATS_TOKEN: ${{ secrets.STAT_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/fetch_stats.py "${{ github.repository_owner }}" "$RUNNER_TEMP/stats.json"
+
+      - name: Draw images
+        run: python3 .github/scripts/draw.py "$RUNNER_TEMP/stats.json" assets
+
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A assets
+          git diff --cached --quiet || git commit -m "Update profile stats"
+          git push
