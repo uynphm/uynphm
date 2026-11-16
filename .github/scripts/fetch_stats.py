@@ -89,7 +89,7 @@ def main() -> None:
     stats = {
         "since": since,
         "until": until,
-        "tz": now.tzname(),  # PST or PDT
+        "tz": "PT",  # Pacific time, covers both PST and PDT
         **calendar(login, since, until),
         "commits": max(count("commits", f"author:{login} author-date:>={since}"), pr_commits(login, since)),
         "prs": count("issues", f"author:{login} type:pr created:>={since}"),
