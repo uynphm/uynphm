@@ -2,8 +2,8 @@ name: profile-stats
 
 on:
   schedule:
-    # Off the hour: GitHub delays or drops top-of-hour schedules. Two slots, so one dropped run is covered.
-    - cron: "37 9,21 * * *" # ~2am and ~2pm Pacific
+    # Off the hour: GitHub delays or drops top-of-hour schedules. Every 3 hours, since each run starts hours late.
+    - cron: "37 */3 * * *"
   workflow_dispatch:
 
 permissions:
