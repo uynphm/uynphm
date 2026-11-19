@@ -1,0 +1,19 @@
+.github/workflows/profile-stats.yml
+  s_6d86c3389b1a80::t_c26218985c5035 5-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "de6d728a13509f9ca996ab5618707e0dc85ff137",
+  "prompts": {},
+  "sessions": {
+    "s_6d86c3389b1a80": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d1d4f3aa-373d-4ad4-bcf8-4b9e90ee7460",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "uynphm <uyen@claritycare.ai>"
+    }
+  }
+}
